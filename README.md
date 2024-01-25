@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Home Page
+![home_page](https://github.com/serdarcolak/flutter_design_movies/assets/77580035/53f2f960-1885-4f02-9d5b-d2e491fd6939)
 
-This project is a starting point for a Flutter application.
+## Discover
+![discover](https://github.com/serdarcolak/flutter_design_movies/assets/77580035/92255c4c-eafd-451c-9690-f4b5ad656a0e)
 
-A few resources to get you started if this is your first Flutter project:
+## Favorite
+![favorite](https://github.com/serdarcolak/flutter_design_movies/assets/77580035/e7af0719-17de-4336-a818-5eb3c267d87e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Categories
+![categories](https://github.com/serdarcolak/flutter_design_movies/assets/77580035/990ccd5b-d693-4479-8516-060094121bfb)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
