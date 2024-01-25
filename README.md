@@ -1,4 +1,4 @@
-# design_netflix
+# design_movies
 
 A new Flutter project.
 
